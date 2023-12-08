@@ -1,5 +1,7 @@
+import Sambar from "../components/Sambar";
+
 function Samba() {
-  return <h2>Samba</h2>;
+  return <Sambar />;
 }
 
 export default Samba;

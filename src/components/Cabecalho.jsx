@@ -13,7 +13,7 @@ function Cabecalho() {
 }
 
 const StyledCabecalho = styled.header`
-  background-color: black;
+  background-color: #864d4d;
   color: white;
   font-size: 1.2rem;
   font-weight: bold;

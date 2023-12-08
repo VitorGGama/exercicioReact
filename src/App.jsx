@@ -1,8 +1,8 @@
 import Cabecalho from "./components/Cabecalho";
 
-import Home from "./pages/Home";
-import Samba from "./pages/Samba";
-import Rock from "./pages/Rock";
+import Home from "./pages/Home.jsx";
+import Samba from "./pages/Samba.jsx";
+import Rock from "./pages/Rock.jsx";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 

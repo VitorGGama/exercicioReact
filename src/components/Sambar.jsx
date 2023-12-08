@@ -1,4 +1,4 @@
-function Samba() {
+function Sambar() {
   return (
     <section>
       <h3>Samba</h3>
@@ -12,4 +12,4 @@ function Samba() {
   );
 }
 
-export default Samba;
+export default Sambar;
